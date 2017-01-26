@@ -1,0 +1,272 @@
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\obj\Debug\VSPackage.resources
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\obj\Debug\ArasMenu.csproj.GenerateResource.Cache
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\ArasMenu.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\ArasMenu.pkgdef
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\ArasMenu.vsix
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\extension.vsixmanifest
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\EnvDTE.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\EnvDTE100.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\EnvDTE80.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\EnvDTE90.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.Threading.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.Validation.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\stdole.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\EnvDTE90a.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.MSXML.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.Threading.xml
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.Validation.xml
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\obj\Debug\VSCT.read.1.tlog
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\obj\Debug\VSCT.write.1.tlog
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\obj\Debug\CtoResourceMerger.cache
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\obj\Debug\VSPackage.resources.original
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\obj\Debug\ArasMenu.dll
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\obj\Debug\ArasMenu.pdb
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\obj\Debug\ArasMenu.pkgdef
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\obj\Debug\ArasMenu.latest.pkgdef
+c:\Users\rob.kubiak\documents\visual studio 2015\Projects\VSIXProject1\ArasMenu\obj\Debug\extension.vsixmanifest
+C:\Users\rob.kubiak\Documents\Visual Studio 2015\Projects\VSIXProject1\ArasMenu\obj\Debug\OpenMethodCommandPackage.cto
+C:\Users\rob.kubiak\Documents\Visual Studio 2015\Projects\VSIXProject1\ArasMenu\obj\Debug\ArasMenu.csprojResolveAssemblyReference.cache
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\ArasMenu.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\ArasMenu.pkgdef
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\ArasMenu.vsix
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\extension.vsixmanifest
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\EnvDTE.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\EnvDTE100.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\EnvDTE80.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\EnvDTE90.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Validation.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\stdole.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\EnvDTE90a.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.MSXML.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Validation.xml
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\obj\Debug\ArasMenu.csprojResolveAssemblyReference.cache
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\obj\Debug\VSPackage.resources
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\obj\Debug\ArasMenu.csproj.GenerateResource.Cache
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\obj\Debug\OpenMethodCommandPackage.cto
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\obj\Debug\VSCT.read.1.tlog
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\obj\Debug\VSCT.write.1.tlog
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\obj\Debug\CtoResourceMerger.cache
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\obj\Debug\VSPackage.resources.original
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\obj\Debug\ArasMenu.dll
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\obj\Debug\ArasMenu.pdb
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\obj\Debug\ArasMenu.pkgdef
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\obj\Debug\ArasMenu.latest.pkgdef
+C:\Users\rob.kubiak\Development\RZLF\VS Extension\ArasMenu\obj\Debug\extension.vsixmanifest
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\ArasMenu.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\ArasMenu.pkgdef
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\ArasMenu.vsix
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\extension.vsixmanifest
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\EnvDTE.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\EnvDTE100.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\EnvDTE80.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\EnvDTE90.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Validation.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\stdole.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\EnvDTE90a.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.MSXML.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.Validation.xml
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\obj\Debug\VSPackage.resources
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\obj\Debug\ArasMenu.csproj.GenerateResource.Cache
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\obj\Debug\VSCT.read.1.tlog
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\obj\Debug\VSCT.write.1.tlog
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\obj\Debug\CtoResourceMerger.cache
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\obj\Debug\VSPackage.resources.original
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\obj\Debug\ArasMenu.dll
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\obj\Debug\ArasMenu.pdb
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\obj\Debug\ArasMenu.pkgdef
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\obj\Debug\ArasMenu.latest.pkgdef
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\obj\Debug\extension.vsixmanifest
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\obj\Debug\ArasMenu.MethodSelectionForm.resources
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\obj\Debug\ArasCommandPackage.cto
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\obj\Debug\ArasMenu.ManageLockForm.resources
+C:\Users\rob.kubiak\Development\RZLF\Aras VS Extension\ArasMenu\obj\Debug\ArasMenu.csprojResolveAssemblyReference.cache
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Resources\Razorleaf.ico
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Resources\RazorleafLogo.png
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\ArasMenu.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\ArasMenu.pkgdef
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\ArasMenu.vsix
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\extension.vsixmanifest
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\EnvDTE.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\EnvDTE100.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\EnvDTE80.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\EnvDTE90.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.Validation.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\stdole.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\EnvDTE90a.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.MSXML.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\EnvDTE.xml
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\EnvDTE100.xml
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\EnvDTE80.xml
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\EnvDTE90.xml
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.Validation.xml
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\EnvDTE90a.xml
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\obj\Debug\ArasMenu.csprojResolveAssemblyReference.cache
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\obj\Debug\VSPackage.resources
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\obj\Debug\ArasMenu.ManageLockForm.resources
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\obj\Debug\ArasMenu.MethodSelectionForm.resources
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\obj\Debug\ArasMenu.csproj.GenerateResource.Cache
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\obj\Debug\ArasCommandPackage.cto
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\obj\Debug\VSCT.read.1.tlog
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\obj\Debug\VSCT.write.1.tlog
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\obj\Debug\CtoResourceMerger.cache
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\obj\Debug\VSPackage.resources.original
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\obj\Debug\ArasMenu.dll
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\obj\Debug\ArasMenu.pdb
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\obj\Debug\ArasMenu.pkgdef
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\obj\Debug\ArasMenu.latest.pkgdef
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\obj\Debug\extension.vsixmanifest
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\LICENSE.txt
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\Templates\ProjectTemplates\Visual C#\Aras Innovator\11sp5.zip
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\ProjectTemplates\CSharp\Aras Innovator\11sp5.zip
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\ItemTemplates\CSharp\Aras Innovator\Razorleaf Aras Client Method.zip
+C:\Users\dennis.lindinger\Source\Repos\Aras-Integration-to-Visual-Stuido\ArasMenu\bin\Debug\ItemTemplates\CSharp\Aras Innovator\Razorleaf Aras Server Method.zip

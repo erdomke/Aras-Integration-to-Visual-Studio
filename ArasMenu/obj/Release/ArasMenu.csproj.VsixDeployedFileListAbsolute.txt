@@ -1,0 +1,13 @@
+C:\Users\dennis.lindinger\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Razorleaf\Aras Innovator Integration to Visual Studio\1.0.1\\ArasMenu.dll
+C:\Users\dennis.lindinger\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Razorleaf\Aras Innovator Integration to Visual Studio\1.0.1\\ArasMenu.pdb
+C:\Users\dennis.lindinger\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Razorleaf\Aras Innovator Integration to Visual Studio\1.0.1\\Aras.Diagnostics.dll
+C:\Users\dennis.lindinger\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Razorleaf\Aras Innovator Integration to Visual Studio\1.0.1\\Aras.Net.dll
+C:\Users\dennis.lindinger\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Razorleaf\Aras Innovator Integration to Visual Studio\1.0.1\\IOM.dll
+C:\Users\dennis.lindinger\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Razorleaf\Aras Innovator Integration to Visual Studio\1.0.1\\ArasMenu.pkgdef
+C:\Users\dennis.lindinger\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Razorleaf\Aras Innovator Integration to Visual Studio\1.0.1\\extension.vsixmanifest
+C:\Users\dennis.lindinger\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Razorleaf\Aras Innovator Integration to Visual Studio\1.0.1\ItemTemplates\CSharp\Aras Innovator\\Razorleaf Aras Client Method.zip
+C:\Users\dennis.lindinger\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Razorleaf\Aras Innovator Integration to Visual Studio\1.0.1\ItemTemplates\CSharp\Aras Innovator\\Razorleaf Aras Server Method.zip
+C:\Users\dennis.lindinger\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Razorleaf\Aras Innovator Integration to Visual Studio\1.0.1\ProjectTemplates\CSharp\Aras Innovator\\11sp5.zip
+C:\Users\dennis.lindinger\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Razorleaf\Aras Innovator Integration to Visual Studio\1.0.1\\LICENSE.txt
+C:\Users\dennis.lindinger\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Razorleaf\Aras Innovator Integration to Visual Studio\1.0.1\Resources\\Razorleaf.ico
+C:\Users\dennis.lindinger\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Razorleaf\Aras Innovator Integration to Visual Studio\1.0.1\Resources\\RazorleafLogo.png

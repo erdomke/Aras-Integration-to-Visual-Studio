@@ -1,2 +1,2 @@
-# Aras-Integration-to-Visual-Stuido
-Visual Stuido Extension to connect to Aras Innovator
+# Aras-Integration-to-Visual-Studio
+Visual Studio Extension to connect to Aras Innovator

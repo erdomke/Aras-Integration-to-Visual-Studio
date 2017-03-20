@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="ArasMenu.Robert Kubiak.7ebebfb1-2f7c-4c4f-83ff-21df236e6948" Version="1.0.1" Language="en-US" Publisher="Razorleaf" />
+    <Identity Id="ArasMenu.Robert Kubiak.7ebebfb1-2f7c-4c4f-83ff-21df236e6948" Version="1.1.0" Language="en-US" Publisher="Razorleaf" />
     <DisplayName>Aras Innovator Integration to Visual Studio</DisplayName>
     <Description xml:space="preserve">Aras Innovator Integration to Visual Studio. Open, edit, and save methods to and from an Aras Innovator database directly from Visual Studio.</Description>
     <License>LICENSE.txt</License>
@@ -20,5 +20,7 @@
     <Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="File" Path="ProjectTemplates" d:TargetPath="ProjectTemplates\CSharp\Aras Innovator\11sp5.zip" />
     <Asset Type="Microsoft.VisualStudio.ItemTemplate" d:Source="File" Path="ItemTemplates" d:TargetPath="ItemTemplates\CSharp\Aras Innovator\Razorleaf Aras Client Method.zip" />
     <Asset Type="Microsoft.VisualStudio.ItemTemplate" d:Source="File" Path="ItemTemplates" d:TargetPath="ItemTemplates\CSharp\Aras Innovator\Razorleaf Aras Server Method.zip" />
+    <Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="File" Path="ProjectTemplates" d:TargetPath="ProjectTemplates\CSharp\Aras Innovator\11sp9.zip" />
+    <Asset Type="Microsoft.VisualStudio.ItemTemplate" d:Source="File" Path="ItemTemplates" d:TargetPath="ItemTemplates\CSharp\Aras Innovator\Razorleaf Aras Server Method 11sp9.zip" />
   </Assets>
 </PackageManifest>

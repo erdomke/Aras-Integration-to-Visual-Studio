@@ -86,9 +86,17 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
+    <Content Include="ItemTemplates\CSharp\Aras Innovator\Razorleaf Aras Server Method 11sp9.zip">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <None Include="Key.snk" />
     <None Include="packages.config" />
     <Content Include="ProjectTemplates\CSharp\Aras Innovator\11sp5.zip">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="ProjectTemplates\CSharp\Aras Innovator\11sp9.zip">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
@@ -96,10 +104,16 @@
       <SubType>Designer</SubType>
     </None>
     <None Include="Templates\ItemTemplates\Visual C#\Aras Innovator\Razorleaf Aras Client Method.zip" />
+    <Content Include="Templates\ItemTemplates\Visual C#\Aras Innovator\Razorleaf Aras Server Method 11sp9.zip">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <None Include="Templates\ItemTemplates\Visual C#\Aras Innovator\Razorleaf Aras Server Method.zip" />
     <None Include="Templates\ProjectTemplates\Visual C#\Aras Innovator\11sp5.zip">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <Content Include="Templates\ProjectTemplates\Visual C#\Aras Innovator\11sp9.zip">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Content Include="index.html" />

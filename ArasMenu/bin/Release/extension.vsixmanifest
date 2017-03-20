@@ -1,6 +1,6 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
   <Metadata>
-    <Identity Id="ArasMenu.Robert Kubiak.7ebebfb1-2f7c-4c4f-83ff-21df236e6948" Version="1.0.1" Language="en-US" Publisher="Razorleaf" />
+    <Identity Id="ArasMenu.Robert Kubiak.7ebebfb1-2f7c-4c4f-83ff-21df236e6948" Version="1.1.0" Language="en-US" Publisher="Razorleaf" />
     <DisplayName>Aras Innovator Integration to Visual Studio</DisplayName>
     <Description xml:space="preserve">Aras Innovator Integration to Visual Studio. Open, edit, and save methods to and from an Aras Innovator database directly from Visual Studio.</Description>
     <License>LICENSE.txt</License>

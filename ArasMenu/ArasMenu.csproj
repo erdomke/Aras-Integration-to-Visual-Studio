@@ -141,14 +141,6 @@
     </VSCTCompile>
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="Aras.Diagnostics, Version=11.0.0.6357, Culture=neutral, PublicKeyToken=524d880b05474146, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\Aras.Diagnostics.dll</HintPath>
-    </Reference>
-    <Reference Include="Aras.Net, Version=11.0.0.6357, Culture=neutral, PublicKeyToken=524d880b05474146, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\Aras.Net.dll</HintPath>
-    </Reference>
     <Reference Include="EnvDTE, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
@@ -161,9 +153,8 @@
     <Reference Include="EnvDTE90, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
-    <Reference Include="IOM, Version=11.0.0.6357, Culture=neutral, PublicKeyToken=524d880b05474146, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\IOM.dll</HintPath>
+    <Reference Include="IOM">
+      <HintPath>..\lib\IOM.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Build.Framework" />
     <Reference Include="Microsoft.CSharp" />

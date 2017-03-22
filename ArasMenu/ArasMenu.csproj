@@ -103,20 +103,8 @@
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Templates\ItemTemplates\Visual C#\Aras Innovator\Razorleaf Aras Client Method.zip" />
-    <Content Include="Templates\ItemTemplates\Visual C#\Aras Innovator\Razorleaf Aras Server Method 11sp9.zip">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <None Include="Templates\ItemTemplates\Visual C#\Aras Innovator\Razorleaf Aras Server Method.zip" />
-    <None Include="Templates\ProjectTemplates\Visual C#\Aras Innovator\11sp5.zip">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <Content Include="Templates\ProjectTemplates\Visual C#\Aras Innovator\11sp9.zip">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="index.html" />
     <Content Include="LICENSE.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
@@ -134,7 +122,6 @@
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <Content Include="Resources\UnlockItem.svg" />
-    <Content Include="stylesheet.css" />
     <VSCTCompile Include="ArasCommandPackage.vsct">
       <ResourceName>Menus.ctmenu</ResourceName>
       <SubType>Designer</SubType>
